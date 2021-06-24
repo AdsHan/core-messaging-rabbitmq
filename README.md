@@ -1,11 +1,10 @@
-# core-performance-benchmark
+# core-messaging-rabbitmq
 
-Aplicação desenvolvida utilizando BenchmarkDotNet para testes de performance.
+Demonstração básica do funcionamento do RabbitMQ como messaging broker.
 
 # Como executar:
 - Clonar / baixar o repositório em seu workplace.
 - Baixar o .Net Core SDK e o Visual Studio Code mais recentes.
-- Rodar o projeto como Release.
 
 # Sobre
 Este projeto foi desenvolvido por Anderson Hansen sob [MIT license](LICENSE).
